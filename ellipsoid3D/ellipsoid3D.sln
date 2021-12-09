@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5F2B2D5-85D3-4556-A189-00156D76DD62}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ellipsoid3D", "ellipsoid3D\ellipsoid3D.vcxproj", "{BC44C833-E549-451E-856E-1D815D4B91D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Debug|Win32.Build.0 = Debug|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Release|Win32.ActiveCfg = Release|Win32
+		{BC44C833-E549-451E-856E-1D815D4B91D1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
